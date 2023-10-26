@@ -2,3 +2,8 @@ tambahan konten -> belajar git
 add konten
 branch konten
 take content
+
+tambah js view
+tambah di laravel
+tambah materi python
+tambah react
