@@ -6,3 +6,4 @@ take content
 tambah js view
 tambah di laravel
 tambah materi python
+tambah react
